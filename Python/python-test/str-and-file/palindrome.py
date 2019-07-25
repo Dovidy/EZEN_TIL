@@ -17,4 +17,6 @@ def func():
     return palin
             
 a = func()
-print(a[-1])
+
+palin = [x[0] for x in a]
+print(max(palin))
