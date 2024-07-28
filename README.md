@@ -7,6 +7,11 @@
 
 * 참여일자 : 2019.06.04
 
-* 중도탈퇴 : 2019.08.06
+## 교육 종류
 
-![안녕히계세요_여러분](./image/goodbye_guys.jpg)
+- R
+  - [통계 분석](https://github.com/koremp/r-stat-analysis)
+  - [데이터 분석](https://github.com/koremp/r-data-analysis)
+- Python 3
+- MySQL
+- [Naver Movie Comment Crawling](https://github.com/koremp/naver-movie-review-crawl/)
