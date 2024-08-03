@@ -41,7 +41,7 @@
 
 7. 프로젝트
 
-## 프로젝트 레포지토리
+## 프로젝트 레포지토리
 
 - R TIL
   - [통계 분석](https://github.com/koremp/r-stat-analysis)
